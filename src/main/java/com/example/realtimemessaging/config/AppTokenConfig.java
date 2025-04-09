@@ -1,4 +1,4 @@
-package com.example.simplesecuredmessaging.config;
+package com.example.realtimemessaging.config;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;

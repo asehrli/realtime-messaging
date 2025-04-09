@@ -1,4 +1,4 @@
-package com.example.simplesecuredmessaging.entity;
+package com.example.realtimemessaging.entity;
 
 
 import jakarta.persistence.ManyToOne;

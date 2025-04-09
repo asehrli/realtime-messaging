@@ -1,6 +1,6 @@
-package com.example.simplesecuredmessaging.security;
+package com.example.realtimemessaging.security;
 
-import com.example.simplesecuredmessaging.repository.UserRepository;
+import com.example.realtimemessaging.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

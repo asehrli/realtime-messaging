@@ -1,6 +1,6 @@
-package com.example.simplesecuredmessaging.config;
+package com.example.realtimemessaging.config;
 
-import com.example.simplesecuredmessaging.security.Oauth2SuccessHandler;
+import com.example.realtimemessaging.security.Oauth2SuccessHandler;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

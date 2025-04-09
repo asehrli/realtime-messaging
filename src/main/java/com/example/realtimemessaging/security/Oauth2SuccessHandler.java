@@ -1,7 +1,7 @@
-package com.example.simplesecuredmessaging.security;
+package com.example.realtimemessaging.security;
 
-import com.example.simplesecuredmessaging.entity.User;
-import com.example.simplesecuredmessaging.repository.UserRepository;
+import com.example.realtimemessaging.entity.User;
+import com.example.realtimemessaging.repository.UserRepository;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

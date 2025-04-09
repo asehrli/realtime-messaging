@@ -1,4 +1,4 @@
-package com.example.simplesecuredmessaging.controller;
+package com.example.realtimemessaging.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

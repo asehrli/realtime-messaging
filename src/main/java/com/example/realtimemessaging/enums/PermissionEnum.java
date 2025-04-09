@@ -1,4 +1,4 @@
-package com.example.simplesecuredmessaging.enums;
+package com.example.realtimemessaging.enums;
 
 import org.springframework.security.core.GrantedAuthority;
 

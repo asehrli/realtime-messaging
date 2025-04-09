@@ -1,6 +1,6 @@
-package com.example.simplesecuredmessaging.entity;
+package com.example.realtimemessaging.entity;
 
-import com.example.simplesecuredmessaging.enums.PermissionEnum;
+import com.example.realtimemessaging.enums.PermissionEnum;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
